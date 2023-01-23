@@ -80,7 +80,7 @@ amxxpro_contact_forum "AmxxPro.pl"
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/konsola.png"></img>
   - MOTD
   
-  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/motd.png"></img>
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/motd_main.png"></img>
 </details>
 
 ### Requirements 
