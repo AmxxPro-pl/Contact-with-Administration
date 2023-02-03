@@ -1,14 +1,14 @@
 <div align="center">
-
-# Contact with Administration
+<h1><p></p>Contact With Administration<p></p></h1>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner.png"></img>
 </div>
+
+---
 
 ### Description
 - Rozbudowany kontakt z administracją CS 1.6
 - Odczytywanie administracji z pliku contact.ini
 - Odczytywanie cvarów z pliku contact.cfg
-
-</div>
 
 ### Configure
 <details>
