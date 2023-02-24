@@ -25,7 +25,6 @@
 
 "AmxxPro.PL" "discord.gg/JnFrthDvVs" "AmxxPro" "Developer"
 "N1K1Cz" "N1K1Cz#0751" "N1K1Cz" "Author"
-"mpN`" "mpN`#5185" "mpN`" "Author"
 
 ;===================== » Contact « =====================
 ```
