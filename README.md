@@ -35,32 +35,32 @@
   <summary><b>contact.cfg</b></summary>
 
 ```
-;===================== » Contact - Configuration « =====================
-;                     Autorzy pluginu: N1K1Cz & mpN`
-;                     Strona: © AmxxPro.pl
+//===================== » Contact - Configuration « =====================
+//                     Autorzy pluginu: N1K1Cz & mpN`
+//                     Strona: © AmxxPro.pl
 
-;Czy pod /kontakt ma byc otwierane MOTD czy Menu? 1 - MOTD, 0 - Menu
+//Czy pod /kontakt ma byc otwierane MOTD czy Menu? 1 - MOTD, 0 - Menu
 amxxpro_contact_show "1"
 
-;Jaki ma byc prefix na czacie
+//Jaki ma byc prefix na czacie
 amxxpro_contact_prefix "AmxxPro.pl"
 
-;Czy ma wyswietlac informacje w konsoli? 1 - Konsola, 0 - Czat
+//Czy ma wyswietlac informacje w konsoli? 1 - Konsola, 0 - Czat
 amxxpro_contact_info "1"
 
-;Czy ma byc wyswietlana nazwa forum w konsoli?
+//Czy ma byc wyswietlana nazwa forum w konsoli?
 amxxpro_contact_discord_show "1"
 
-;Jaki ma byc wyswietlany link do discorda w konsoli?
+//Jaki ma byc wyswietlany link do discorda w konsoli?
 amxxpro_contact_discord "discord.gg/JnFrthDvVs"
 
-;Czy ma byc wyswietlana nazwa forum w konsoli?
+//Czy ma byc wyswietlana nazwa forum w konsoli?
 amxxpro_contact_forum_show "1"
 
-;Jaka ma byc wyswietlana nazwa forum w konsoli?
+//Jaka ma byc wyswietlana nazwa forum w konsoli?
 amxxpro_contact_forum "AmxxPro.pl"
 
-;===================== » Contact - Configuration « =====================
+//===================== » Contact - Configuration « =====================
 ```
 </details>
 
