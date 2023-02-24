@@ -16,7 +16,7 @@
 
 ```
 ;===================== » Contact « =====================
-;           Autorzy pluginu: N1K1Cz & mpN`
+;           Aut(h)or pluginu: N1K1Cz
 ;           Strona: © AmxxPro.pl
 
 ; Instrukcja dodawania administratora do kontaktu:
@@ -36,7 +36,7 @@
 
 ```
 //===================== » Contact - Configuration « =====================
-//                     Autorzy pluginu: N1K1Cz & mpN`
+//                     Aut(h)or pluginu: N1K1Cz
 //                     Strona: © AmxxPro.pl
 
 //Czy pod /kontakt ma byc otwierane MOTD czy Menu? 1 - MOTD, 0 - Menu
