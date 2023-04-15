@@ -20,9 +20,9 @@
 ;           Strona: © AmxxPro.pl
 
 ; Instrukcja dodawania administratora do kontaktu:
-; "Nick" "Discord" "Steam" "Ranga"
+; "Nick" "Discord" "Steam" "Ranga (Wlasciciel, Opiekun, Admin)"
 
-
+"XYZ" "XYZ" "XYZ" "Wlasciciel"
 "AmxxPro.PL" "discord.gg/JnFrthDvVs" "AmxxPro" "Developer"
 "N1K1Cz" "N1K1Cz#0751" "N1K1Cz" "Author"
 
@@ -71,15 +71,21 @@ amxxpro_contact_forum "AmxxPro.pl"
   - Chat
   
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/chat_konsola.png"></img>
+  
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_brak.png"></img>
+  
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_wlasciciel_czat.png"></img>
   - Menu 
   
-  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/menu.png"></img>
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_main_menu.png"></img> 
+  
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_wlasciciel.png"></img>
   - Console
   
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/konsola.png"></img>
   - MOTD
   
-  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/motd_main.png"></img>
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_motd.png"></img>
 </details>
 
 ### Requirements 
