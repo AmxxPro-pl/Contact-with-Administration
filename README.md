@@ -73,7 +73,7 @@ amxxpro_contact_forum "AmxxPro.pl"
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_wlasciciel_czat.png"></img>
   - Menu 
   
-  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_main_menu2.png"></img> 
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_main_menu3.png"></img> 
   
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_wlasciciel2.png"></img>
 
@@ -82,6 +82,7 @@ amxxpro_contact_forum "AmxxPro.pl"
   
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/konsola.png"></img>
   - MOTD
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_motd4.png"></img>
   
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_motd3.png"></img>
 
