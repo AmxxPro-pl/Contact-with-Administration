@@ -1,4 +1,3 @@
-![kontakt_wlasciciel_czat](https://github.com/AmxxPro-pl/Contact-with-Administration/assets/97614390/b8fac48c-35c1-463d-9ea7-3a7ae8e5fd9f)<div align="center">
 <h1><p></p>Contact With Administration<p></p></h1>
 <img src="https://github.com/AmxxPro-pl/.github/blob/main/banner-new-2.png"></img>
 </div>
@@ -74,9 +73,9 @@ amxxpro_contact_forum "AmxxPro.pl"
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_wlasciciel_czat.png"></img>
   - Menu 
   
-  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_main_menu.png"></img> 
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_main_menu2.png"></img> 
   
-  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_wlasciciel.png"></img>
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_wlasciciel2.png"></img>
 
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_opiekun.png"></img>
   - Console
@@ -84,7 +83,7 @@ amxxpro_contact_forum "AmxxPro.pl"
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/konsola.png"></img>
   - MOTD
   
-  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_motd.png"></img>
+  <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_motd3.png"></img>
 
   <img src="https://github.com/AmxxPro-pl/Contact-with-Administration/blob/main/img/kontakt_motd2.png"></img>
 </details>
